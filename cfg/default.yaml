@@ -1,0 +1,5 @@
+tile_size: 512
+mask_downsample: 32
+tissue_threshold: 1.0
+classes: ["NNEO","LGD","HGD"]
+severity_weights: [0, 1, 2]
